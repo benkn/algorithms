@@ -1,4 +1,4 @@
-algorithms
+Algorithms
 ==========
 
 Various algorithm implementations
